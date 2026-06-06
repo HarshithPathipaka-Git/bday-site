@@ -14,7 +14,8 @@ export default function LetterSection() {
             ✦ &nbsp; from the heart &nbsp; ✦
           </p>
           <h2 className="font-display text-shimmer-sky" style={{ fontSize: 'clamp(2rem, 6vw, 3.5rem)', fontWeight: 600 }}>
-            For You, Mallika
+            
+            My Dear Friend
           </h2>
         </div>
 

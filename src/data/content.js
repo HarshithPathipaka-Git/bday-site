@@ -4,7 +4,7 @@
 
 export const PASSCODE = '1234'   // ← change to your secret code
 
-export const NAME = 'Mallika'
+export const NAME = 'Praveen '
 
 // ── Memory Cards ─────────────────────────────────────────────────
 // Replace `photo` with real image URLs or local paths like '/photos/1.jpg'
@@ -81,34 +81,34 @@ export const MEMORIES = [
 // ── Timeline ─────────────────────────────────────────────────────
 export const TIMELINE = [
   {
-    label: 'The First Hi',
-    text: 'A random message that didn\'t feel random at all. Something just clicked.',
-    icon: '👋',
+    label: 'Childhood Days',
+    text: 'The beginning of a friendship that would last for years.',
+    icon: '🧒',
   },
   {
-    label: 'Daily Chats',
-    text: 'Suddenly there was someone to tell everything to. Every dumb thing. Every real thing.',
-    icon: '💬',
+    label: 'School Memories',
+    text: 'Classrooms, lunch breaks, games, and countless unforgettable moments.',
+    icon: '🏫',
   },
   {
-    label: 'The Late Nights',
-    text: '2am conversations that went places normal conversations don\'t. You became safe.',
-    icon: '🌙',
+    label: 'Our Adventures',
+    text: 'Every trip, every joke, every crazy plan became a memory worth keeping.',
+    icon: '🚲',
   },
   {
-    label: 'The Fights',
-    text: 'We fought. We came back. That\'s when it became something real.',
-    icon: '⚡',
+    label: 'The Tough Times',
+    text: 'When life got difficult, we stood by each other no matter what.',
+    icon: '🤝',
   },
   {
-    label: 'The Support',
-    text: 'Hard weeks, harder days — and you were always there. Quietly, consistently, always.',
-    icon: '🫂',
+    label: 'Growing Up Together',
+    text: 'Years passed, but our friendship only became stronger.',
+    icon: '🌱',
   },
   {
-    label: 'Right Now',
-    text: 'Here. This moment. A friendship that crossed every distance and earned every bit of itself.',
-    icon: '🌟',
+    label: 'Best Friends Forever',
+    text: 'A friendship built on trust, loyalty, and countless memories.',
+    icon: '♾️',
   },
 ]
 
@@ -143,22 +143,26 @@ export const WISHES = [
 
 // ── Letter from the writer ───────────────────────────────────────
 export const LETTER = [
-  'Mallika.',
-  'I don\'t know how to explain what this friendship is without underselling it.',
-  'You came into my life through a screen, through messages, through late nights — and somehow you became one of the most real people in it.',
-  'You have this thing where you say exactly what someone needs to hear, at exactly the right time. You probably don\'t notice it. But everyone around you does.',
-  'You\'ve shown up for me. Consistently. Without making it a thing. That\'s rarer than you know.',
-  'On your birthday — I just want you to feel what it\'s like to be on the receiving end of that. To feel seen. To feel celebrated. To know that you matter.',
-  'You do. You really, genuinely do.',
-  'Happy Birthday. 🌙',
+  'Praveen,',
+  'Happy Birthday to the friend who has been a part of my life for as long as I can remember.',
+  'From our childhood days to where we are today, we have shared countless memories, laughs, adventures, and even a few silly fights. Every moment has become a part of a friendship I truly value.',
+  'You have always been more than just a friend. You have been a brother, a supporter, and someone I could always count on no matter what.',
+  'Thank you for standing by me during good times and difficult times. Your friendship has made life brighter, happier, and filled with unforgettable memories.',
+  'As another year begins for you, I hope you achieve everything you dream of and find success, happiness, good health, and endless reasons to smile.',
+  'No matter where life takes us, our friendship will always remain special. Some bonds are built to last forever, and ours is one of them.',
+  'Thank you for being an amazing friend and for making so many moments of life unforgettable.',
+  'Wishing you a birthday filled with happiness, laughter, and everything you love.',
+  'Happy Birthday, Best Friend! 🎂🎉💙',
+  'Best Friends Forever. ♾️',
 ]
-
 // ── Truths (small affirmation cards) ───────────────────────────
 export const TRUTHS = [
-  { icon: '🌙', text: 'Your 2am presence has been a gift.' },
-  { icon: '💬', text: 'You make even boring days feel like something.' },
-  { icon: '🫂', text: 'You check on people even when you\'re struggling yourself.' },
-  { icon: '😂', text: 'You are genuinely, effortlessly funny.' },
-  { icon: '🔥', text: 'Your opinions are always worth hearing, even when they\'re wrong.' },
-  { icon: '💙', text: 'Knowing you has made me better at this whole being-human thing.' },
+  { icon: '🤝', text: 'You have been one of the most important people in my life since childhood.' },
+  { icon: '😂', text: 'Some of my happiest memories exist because of you.' },
+  { icon: '🏫', text: 'From school days to today, our friendship has only grown stronger.' },
+  { icon: '💪', text: 'You have always stood by the people you care about.' },
+  { icon: '🎉', text: 'Every adventure becomes more fun when you are part of it.' },
+  { icon: '💙', text: 'A true friend is hard to find, and I am lucky to have found one in you.' },
+  { icon: '🌟', text: 'Your kindness, loyalty, and positivity make you special.' },
+  { icon: '♾️', text: 'No matter where life takes us, our friendship will always remain strong.' },
 ]

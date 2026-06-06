@@ -83,7 +83,7 @@ export default function HeroSection() {
       <motion.h2
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 1, delay: 1.0, ease: [0.16,1,0.3,1] }}
+        transition={{ duration: 1.3, delay: 1.8, ease: [0.16,1,0.3,1] }}
         className="font-display text-shimmer-lav"
         style={{
           fontSize: 'clamp(2rem, 8vw, 5rem)',
@@ -119,8 +119,7 @@ export default function HeroSection() {
           letterSpacing: '0.02em',
         }}
       >
-        For the person who turned late-night conversations<br />
-        into something I didn't know I needed.
+        For the Dear best friend 
       </motion.p>
 
       {/* Floating cards preview hint */}
