@@ -47,7 +47,7 @@ export default function Footer() {
           color: 'rgba(56,189,248,0.25)',
           textTransform: 'uppercase',
         }}>
-          ✦ &nbsp; made with care &nbsp; ✦
+          ✦ &nbsp; 🩵From Harshith🤍 &nbsp; ✦
         </div>
       </motion.div>
     </footer>
