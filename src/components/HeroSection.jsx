@@ -62,28 +62,29 @@ export default function HeroSection() {
         className="font-display"
         style={{ fontSize: 'clamp(1.2rem, 5vw, 2.2rem)', fontWeight: 300, color: 'rgba(147,197,253,0.65)', letterSpacing: '0.35em', marginBottom: 8, textTransform: 'uppercase' }}
       >
-        {word('Happy', 0.4)}
+        {word('Happy', 0.2)}
       </div>
 
       {/* BIRTHDAY — main */}
       <h1
         className="font-display text-shimmer-sky"
         style={{
-          fontSize: 'clamp(3.5rem, 15vw, 10rem)',
+          fontSize: 'clamp(2.5rem, 13vw, 10rem)',
           fontWeight: 700,
-          lineHeight: 0.95,
+          lineHeight: 0.77,
           letterSpacing: '-0.02em',
           margin: '8px 0 16px',
+          textTransform: 'uppercase',
         }}
       >
-        {word('Birthday', 0.6)}
+        {word('BIRTHDAY', 0.2)}
       </h1>
 
       {/* Name */}
       <motion.h2
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 1.3, delay: 1.8, ease: [0.16,1,0.3,1] }}
+        transition={{ duration: 1, delay: 1.5, ease: [0.16,1,0.3,1] }}
         className="font-display text-shimmer-lav"
         style={{
           fontSize: 'clamp(2rem, 8vw, 5rem)',

@@ -18,7 +18,7 @@ export default function Footer() {
           className="animate-float-slow"
           style={{ fontSize: 52, filter: 'drop-shadow(0 0 30px rgba(147,197,253,0.5))', marginBottom: 8 }}
         >
-          🌙
+          🫂
         </div>
 
         <h2

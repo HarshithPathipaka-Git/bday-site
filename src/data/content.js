@@ -116,7 +116,7 @@ export const TIMELINE = [
 // ── Birthday Wishes ───────────────────────────────────────────────
 export const WISHES = [
   {
-    icon: '🌙',
+    icon: '🕊️',
     title: 'Peace',
     text: 'May this year bring you the kind of quiet that actually feels like rest.',
   },
@@ -161,7 +161,7 @@ export const TRUTHS = [
   { icon: '🤝', text: 'You have been one of the most important people in my life since childhood.' },
   { icon: '😂', text: 'Some of my happiest memories exist because of you.' },
   { icon: '🏫', text: 'From school days to today, our friendship has only grown stronger.' },
-  { icon: '💪', text: 'You have always stood by the people you care about.' },
+  { icon: '🤝', text: 'You have always stood by the people you care about.' },
   { icon: '🎉', text: 'Every adventure becomes more fun when you are part of it.' },
   { icon: '💙', text: 'A true friend is hard to find, and I am lucky to have found one in you.' },
   { icon: '🌟', text: 'Your kindness, loyalty, and positivity make you special.' },

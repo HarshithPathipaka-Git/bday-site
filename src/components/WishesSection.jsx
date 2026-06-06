@@ -157,7 +157,7 @@ export default function WishesSection() {
               transition={{ duration: 0.8, ease: [0.16,1,0.3,1] }}
               style={{ textAlign: 'center', marginTop: 16 }}
             >
-              <div style={{ fontSize: 48, marginBottom: 12, animation: 'breathe 2s ease-in-out infinite' }}>🌙</div>
+              <div style={{ fontSize: 48, marginBottom: 12, animation: 'breathe 2s ease-in-out infinite' }}>⌛</div>
               <p className="font-display text-shimmer-sky" style={{ fontSize: 'clamp(1.2rem, 3vw, 1.8rem)', fontWeight: 600, marginBottom: 8 }}>
                 All wishes sent to the universe ✦
               </p>

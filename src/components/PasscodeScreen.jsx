@@ -44,7 +44,7 @@ export default function PasscodeScreen({ onUnlock }) {
         className="flex flex-col items-center gap-4"
       >
         <div className="animate-float" style={{ fontSize: 64, filter: 'drop-shadow(0 0 24px rgba(147,197,253,0.6))' }}>
-          🌙
+          🫂
         </div>
         <div className="text-center">
           <p className="font-mono text-xs tracking-[0.35em] text-sky-400/50 uppercase mb-3">
