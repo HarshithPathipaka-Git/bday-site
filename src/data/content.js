@@ -10,73 +10,74 @@ export const NAME = 'Praveen '
 // Replace `photo` with real image URLs or local paths like '/photos/1.jpg'
 // The back.note is what shows when the card flips
 export const MEMORIES = [
-  {
-    id: 1,
-    photo: 'https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=600&q=80',
-    tag: '2:47 AM',
-    title: 'The Night We Didn\'t Sleep',
-    back: {
-      emoji: '🌙',
-      note: 'That one night we said "ok goodnight" like 6 times and kept talking till 3am. Neither of us regrets it.',
-    },
-    accent: '#38bdf8',
-  },
-  {
-    id: 2,
-    photo: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&q=80',
-    tag: 'daily chaos',
-    title: 'The Reel Dump Era',
-    back: {
-      emoji: '😂',
-      note: 'You send me at least 4 reels a day. I watch all of them. I would never admit that out loud though.',
-    },
-    accent: '#c4b5fd',
-  },
-  {
-    id: 3,
-    photo: 'https://images.unsplash.com/photo-1596524430615-b46475ddff6e?w=600&q=80',
-    tag: 'the fights',
-    title: 'When We Argued About Nothing',
-    back: {
-      emoji: '🙄',
-      note: 'We fought so hard over something so stupid. Then made up in 20 minutes. That\'s just how we work.',
-    },
-    accent: '#f472b6',
-  },
-  {
-    id: 4,
-    photo: 'https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80',
-    tag: 'on bad days',
-    title: 'You Just Knew',
-    back: {
-      emoji: '🫂',
-      note: 'Some days I didn\'t say anything was wrong. You knew anyway. You always checked. That means more than you realise.',
-    },
-    accent: '#67e8f9',
-  },
-  {
-    id: 5,
-    photo: 'https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?w=600&q=80',
-    tag: 'voice notes',
-    title: 'The Long Voice Notes Era',
-    back: {
-      emoji: '🎙️',
-      note: 'Your 7-minute voice notes are a feature, not a bug. I have never once skipped them.',
-    },
-    accent: '#a78bfa',
-  },
-  {
-    id: 6,
-    photo: 'https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80',
-    tag: 'always',
-    title: 'When Everything Was Heavy',
-    back: {
-      emoji: '💙',
-      note: 'You showed up for me in ways that mattered. Not with big speeches — just quietly being there. That\'s the whole thing.',
-    },
-    accent: '#38bdf8',
-  },
+{
+id: 1,
+photo: 'https://avatarfiles.alphacoders.com/375/375449.jpeg',
+tag: 'childhood',
+title: 'Where It All Started',
+back: {
+emoji: '🧒',
+note: 'From our childhood days to today, we have shared countless memories that I will always cherish.',
+},
+accent: '#38bdf8',
+},
+{
+id: 2,
+photo: 'https://wallpapers-clan.com/wp-content/uploads/2023/07/tanjiro-kamado-dance-of-the-fire-god-wallpaper.jpg',
+tag: 'school days',
+title: 'Classroom Adventures',
+back: {
+emoji: '🏫',
+note: 'From sharing laughs in school to making unforgettable memories, those days will always be special.',
+},
+accent: '#c4b5fd',
+},
+{
+id: 3,
+photo: 'https://tse2.mm.bing.net/th/id/OIP.h2TgkRNZCPG5ztg1NzfzkQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+tag: 'fun times',
+title: 'The Endless Laughter',
+back: {
+emoji: '😂',
+note: 'Some of the funniest moments of my life happened because of our friendship.',
+},
+accent: '#f472b6',
+},
+{
+id: 4,
+photo: 'https://i.etsystatic.com/36651991/r/il/8fc321/6868897279/il_1140xN.6868897279_pisl.jpg',
+tag: 'support',
+title: 'Always There',
+back: {
+emoji: '🤝',
+note: 'No matter what happened, I always knew I had a friend I could count on.',
+},
+accent: '#67e8f9',
+},
+{
+id: 5,
+photo: 'https://th.bing.com/th/id/OIP.wQve--nsiTutx0Am6jGuFQHaNK?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3',
+tag: 'adventures',
+title: 'Every Journey Together',
+back: {
+emoji: '🚲',
+note: 'Every trip, every game, and every adventure became a memory worth keeping because you were there.',
+},
+accent: '#a78bfa',
+},
+{
+id: 6,
+photo: 'https://tse1.mm.bing.net/th/id/OIP.KVA8fPNAS23la_yYLZVujgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
+tag: 'forever',
+title: 'Best Friends Forever',
+back: {
+emoji: '💙',
+note: 'Years may pass and life may change, but true friendship like ours lasts forever.',
+},
+accent: '#38bdf8',
+},
 ]
+
 
 // ── Timeline ─────────────────────────────────────────────────────
 export const TIMELINE = [

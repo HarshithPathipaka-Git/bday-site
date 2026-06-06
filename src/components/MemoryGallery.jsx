@@ -181,8 +181,7 @@ export default function MemoryGallery() {
           The Memories We Made
         </h2>
         <p style={{ color: 'rgba(147,197,253,0.45)', fontSize: 'clamp(0.85rem, 2vw, 1rem)', maxWidth: 440, margin: '0 auto', lineHeight: 1.7 }}>
-          Through screens and time zones, through voice notes and reels —<br />
-          here's what actually mattered.
+          A collection of moments that defined our friendship, each one a chapter in our story that we can revisit and cherish forever.
         </p>
       </div>
 
